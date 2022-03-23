@@ -2,11 +2,9 @@
 //**********************************************************************
 // File name:   main.cpp
 // Author:      Ashley Ung 
-// Date:        September 21, 2020
-// Class:       CS 150-01     
-// Assignment:  Exam 1 Practice Area of Rectangle  
+// Date:        September 21, 2020   
+// Assignment:  Area of Rectangle  
 // Purpose:     Area of Rectangle 
-// Hours:       1 
 // Computer OS: MacOS
 //**********************************************************************
 
